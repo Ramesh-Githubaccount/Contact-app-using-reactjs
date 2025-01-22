@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "72733184-e069-45a3-befe-a22ef07db429",
+      "name": "Ajay",
+      "email": "ajay@gmail.com"
+    },
+    {
+      "id": "735d006e-5b56-426a-b194-e70a567e1e59",
+      "name": "Ramesh",
+      "email": "rameshbh786@gmail.com"
+    },
+    {
+      "id": "b8b36501-4242-4cd1-a660-a7b200dd80a3",
+      "name": "Raj",
+      "email": "raj@gmail.com"
+    },
+    {
+      "id": "5a5781f7-2172-4051-951e-a85ed24d1ba5",
+      "name": "Naresh",
+      "email": "naresh12@gmail.com"
+    },
+    {
+      "id": "458f9ca9-0461-4c8e-a92e-d4f7f755eee7",
+      "name": "Hari",
+      "email": "hari@gmail.com"
+    },
+    {
+      "id": "9022279b-c0a9-4434-a501-1e20b594cab3",
+      "name": "ravis",
+      "email": "ravi@gmail.com"
+    },
+    {
+      "id": "9153b271-d747-41fa-bc7b-b32d30630893",
+      "name": "maxi",
+      "email": "rw@gmail.com"
+    }
+  ]
+}
